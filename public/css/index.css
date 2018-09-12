@@ -1,0 +1,33 @@
+#logo {
+    margin-top: -50px;
+    margin-left: 500px;
+    z-index: 3250;
+    position: absolute;
+}
+
+#logoside {
+    background: url("/storage/images/head_bot.png") 0 bottom repeat-x;
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 0px;
+    background-position-y: bottom;
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    background-image: url("/storage/images/head_bot.png");
+    background-size: auto auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+}
+
+.welcarousel {
+    z-index: 2;
+    position: absolute;
+}
+
+#betnow {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #52bcec;
+    font: bold 40px/51px 'Yanone Kaffeesatz', sans-serif;
+    padding: 2px 0 6px;
+}
